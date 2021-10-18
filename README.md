@@ -4,3 +4,5 @@ Arduino ISP programmer from Sound (DTMF and AFSK)
  <li><a href='readmeEnglish.md'>English Doc</a></li>
  <li><a href='readmeSpanish.md'>Spanish Doc</a></li>
 </ul>
+
+<b>Project status:</b> Stopped (not working)
